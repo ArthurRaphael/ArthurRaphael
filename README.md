@@ -1,20 +1,12 @@
-Hello !
-My name is Arthur Raphael :)
 
-I am 20 years old;
-
-I am currently taking the Systems Analysis and Development course at UNIBRA;
-
-I from Brasil, PE;
-
-Welcome to my profile on GitHub.
+![Hello !](https://user-images.githubusercontent.com/111453944/195442341-067228c4-12e8-4095-bc7a-fdd74d1239a3.gif)
 
 <div>
 <a href="https://github.com/ArthurRaphael">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRaphael&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRaphael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
-
+ 
 TOOLS:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git
