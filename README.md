@@ -1,16 +1,52 @@
-### Hi there 👋
+Hello !
+My name is Arthur Raphael :)
 
-<!--
-**ArthurRaphael/ArthurRaphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 20 years old;
 
-Here are some ideas to get you started:
+I am currently taking the Systems Analysis and Development course at UNIBRA;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I from Brasil, PE;
+
+Welcome to my profile on GitHub.
+
+<div>
+<a href="https://github.com/ArthurRaphael">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRaphael&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRaphael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+
+TOOLS:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/> Git
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" height="15"/> Visual Studio Code
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" height="10" /> GitHub
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="15" height="10" /> Windows
+
+Currently studying:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15" /> JavaScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15" height="15" /> Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15" height="15" /> HTML
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15" height="15" /> CSS
+
+CONTATCS
+
+<a href="https://instagram.com/raffa_alvesbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href = "arthurraphael559@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+
+
+
+
+
+
+
