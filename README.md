@@ -28,7 +28,7 @@ Currently studying:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15" height="15" />  CSS
 
  
- CERTIFICATES
+ CERTIFICATES AND MY CURRICULUM
  
  -Harvard University CC150 Online Course;
  
@@ -42,13 +42,15 @@ Currently studying:
  
  -Bradesco foundation online course on introduction to computer networks.
  
+ My curriculum :https://drive.google.com/file/d/1AeoKv7kQMQZoCQwgZtFnFeFSXHCoUwkq/view
+ 
  CONTATCS
 
 <a href="https://instagram.com/raffa_alvesbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href = "arthurraphael559@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- My curriculum :https://drive.google.com/file/d/1AeoKv7kQMQZoCQwgZtFnFeFSXHCoUwkq/view
+ 
  
 
 
