@@ -11,6 +11,14 @@ LINGUAGENS E TECNOLOGIAS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="45" /> 
 
+<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" width="50" height="45" /> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" width="50" height="45" /> 
+
+
+
+
+
 <div>
 <a href="https://github.com/ArthurRaphael">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRaphael&layout=compact&langs_count=7&theme=dracula"/>
