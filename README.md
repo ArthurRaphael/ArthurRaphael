@@ -2,6 +2,12 @@ Me chamo Arthur Raphael, sou natural de Pernambuco. Concluí meu ensino médio n
 
 Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀
 
+ CONTATCS
+
+<a href="https://instagram.com/raffa_alvesbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href = "arthurraphael559@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 LINGUAGENS E TECNOLOGIAS
 
@@ -16,24 +22,23 @@ LINGUAGENS E TECNOLOGIAS
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" width="50" height="45" /> 
 
 
-
-
-
 <div>
 <a href="https://github.com/ArthurRaphael">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRaphael&layout=compact&langs_count=7&theme=dracula"/>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRaphael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
  
 TOOLS:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15"/>  Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" height="15"/>  Visual Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="45"/> 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" height="10" />  GitHub
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="45" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="15" height="10" />  Windows
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="45" />
+
 
  CERTIFICATES AND MY CURRICULUM
  
@@ -49,23 +54,4 @@ TOOLS:
  
  -Bradesco foundation online course on introduction to computer networks.
  
- My curriculum :https://drive.google.com/file/d/1AeoKv7kQMQZoCQwgZtFnFeFSXHCoUwkq/view
- 
- CONTATCS
-
-<a href="https://instagram.com/raffa_alvesbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href = "arthurraphael559@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
+ My curriculum :https://drive.google.com/file/d/1Brv-MU8EGxZF8spP3CvakBeCrF-3s8Ho/view
