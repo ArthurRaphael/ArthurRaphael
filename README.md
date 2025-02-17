@@ -1,5 +1,7 @@
+Me chamo Arthur Raphael, sou natural de Pernambuco. Concluí meu ensino médio no Colégio Souza Veras e sou tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela UNIBRA. Desde cedo, desenvolvi um grande interesse pela tecnologia e tenho dedicado meu tempo e energia ao estudo e à prática de desenvolvimento de sistemas, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 
-![Hello !](https://user-images.githubusercontent.com/111453944/195442341-067228c4-12e8-4095-bc7a-fdd74d1239a3.gif)
+Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀
+
 
 LINGUAGENS E TECNOLOGIAS
 
