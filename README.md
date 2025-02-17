@@ -44,14 +44,16 @@ TOOLS:
  
  -Harvard University CC150 Online Course;
  
- -Online course of the Instituto Coca-Cola Brasil on public speaking;
+ -Online Course of the Instituto Coca-Cola Brasil on public speaking;
  
- -Online course on internet at UTEC Cristiano Donato PE;
+ -Online Course on internet at UTEC Cristiano Donato PE;
  
- -Online course on Basic Excel at UTEC Cristiano Donato PE;
+ -Online Course on Basic Excel at UTEC Cristiano Donato PE;
  
- -Online course on information technology from SENAI PE;
+ -Online Course on information technology from SENAI PE;
  
- -Bradesco foundation online course on introduction to computer networks.
+ -Bradesco foundation online course on introduction to computer networks;
+
+ -Online introductory Game Design Course.
  
  My curriculum :https://drive.google.com/file/d/1Brv-MU8EGxZF8spP3CvakBeCrF-3s8Ho/view
